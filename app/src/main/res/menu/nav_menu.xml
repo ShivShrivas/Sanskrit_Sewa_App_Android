@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/destination1"
+        android:title="Home"
+        android:icon="@drawable/user_ic" />
+    <item
+        android:id="@+id/destination2"
+        android:title="Search"
+        android:icon="@drawable/user_ic" />
+
+    <item
+        android:id="@+id/destination3"
+        android:title="Support"
+        android:icon="@drawable/user_ic"
+        />
+    <item
+        android:id="@+id/destination4"
+        android:title="Profile"
+        android:icon="@drawable/user_ic" />
+    <!-- Add more items as needed -->
+</menu>
